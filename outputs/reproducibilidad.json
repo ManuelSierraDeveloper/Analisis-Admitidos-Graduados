@@ -1,0 +1,20 @@
+{
+  "reference_date_for_edad": "2024-12-31",
+  "generated_at": "2026-05-16T07:23:01.440675+00:00",
+  "python": {
+    "pandas": "3.0.3",
+    "numpy": "2.4.5",
+    "scipy": "1.17.1",
+    "seaborn": "0.13.2"
+  },
+  "input_data": {
+    "file_name": "ADMITIDOS-GRADUADOS.xlsx",
+    "sheet_name": "Data",
+    "shape": [
+      47898,
+      12
+    ],
+    "file_timestamp": "2026-05-06T18:12:16.874340773",
+    "file_sha256": "ec850420aa20aa107c1033123c516e9c16a44528cfdd66279e76c1b8c90f5b9b"
+  }
+}

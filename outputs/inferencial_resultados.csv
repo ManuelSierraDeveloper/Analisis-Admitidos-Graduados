@@ -1,0 +1,5 @@
+prueba,metodo,estadistico,p_value,efecto,conclusion
+chi2_sexo_tipo,chi2,217.9133170457759,2.5795978515879355e-49,0.06754686233365352,Asociacion sexo-tipo
+chi2_estrato_tipo,chi2,172.6766207366806,1.2167034428169705e-34,0.06012845777470475,Asociacion estrato-tipo
+prop_femenina_adm_vs_grad,ztest,-14.771086851851885,0.0,-0.1356553431582732,Diferencia de proporcion femenina
+edad_adm_vs_grad,mannwhitney,195690106.0,0.0,-0.31042903719063253,Diferencia de distribucion de edad

@@ -1,0 +1,23 @@
+{
+  "rows_clean": 47761,
+  "duplicates_removed": 137,
+  "median_ratio": 1.031951675269713,
+  "significant_tests": [
+    {
+      "prueba": "chi2_sexo_tipo",
+      "p_value": 2.5795978515879355e-49
+    },
+    {
+      "prueba": "chi2_estrato_tipo",
+      "p_value": 1.2167034428169705e-34
+    },
+    {
+      "prueba": "prop_femenina_adm_vs_grad",
+      "p_value": 0.0
+    },
+    {
+      "prueba": "edad_adm_vs_grad",
+      "p_value": 0.0
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+dimension,categoria,tipo,volumen
+sexo,F,ADMITIDOS,12923
+sexo,F,GRADUADOS,12759
+sexo,M,ADMITIDOS,12603
+sexo,M,GRADUADOS,9476
+estrato,0,ADMITIDOS,305
+estrato,0,GRADUADOS,172
+estrato,1,ADMITIDOS,13681
+estrato,1,GRADUADOS,10874
+estrato,2,ADMITIDOS,7560
+estrato,2,GRADUADOS,7645
+estrato,3,ADMITIDOS,3200
+estrato,3,GRADUADOS,2963
+estrato,4,ADMITIDOS,651
+estrato,4,GRADUADOS,468
+estrato,5,ADMITIDOS,81
+estrato,5,GRADUADOS,73
+estrato,6,ADMITIDOS,48
+estrato,6,GRADUADOS,40
+departamento_origen,AMAZONAS,ADMITIDOS,2
+departamento_origen,AMAZONAS,GRADUADOS,4
+departamento_origen,ANTIOQUIA,ADMITIDOS,256
+departamento_origen,ANTIOQUIA,GRADUADOS,304
+departamento_origen,ARAUCA,ADMITIDOS,25
+departamento_origen,ARAUCA,GRADUADOS,18
+departamento_origen,ARCHIPIELAGO DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA,GRADUADOS,10
+departamento_origen,ATLANTICO,ADMITIDOS,1143
+departamento_origen,ATLANTICO,GRADUADOS,890
+departamento_origen,BOGOTA D.C.,GRADUADOS,241
+departamento_origen,BOLIVAR,ADMITIDOS,991
+departamento_origen,BOLIVAR,GRADUADOS,953
+departamento_origen,BOYACA,ADMITIDOS,75
+departamento_origen,BOYACA,GRADUADOS,58
+departamento_origen,CALDAS,ADMITIDOS,44
+departamento_origen,CALDAS,GRADUADOS,56
+departamento_origen,CAQUETA,ADMITIDOS,60
+departamento_origen,CAQUETA,GRADUADOS,60
+departamento_origen,CASANARE,ADMITIDOS,22
+departamento_origen,CASANARE,GRADUADOS,12
+departamento_origen,CAUCA,ADMITIDOS,181
+departamento_origen,CAUCA,GRADUADOS,186
+departamento_origen,CESAR,ADMITIDOS,2997
+departamento_origen,CESAR,GRADUADOS,1964
+departamento_origen,CHOCO,ADMITIDOS,15
+departamento_origen,CHOCO,GRADUADOS,31
+departamento_origen,CORDOBA,ADMITIDOS,355
+departamento_origen,CORDOBA,GRADUADOS,437
+departamento_origen,CUNDINAMARCA,ADMITIDOS,638
+departamento_origen,CUNDINAMARCA,GRADUADOS,354
+departamento_origen,EXTRANJERO,GRADUADOS,54
+departamento_origen,FUERA DE COLOMBIA,ADMITIDOS,187
+departamento_origen,GUAINIA,ADMITIDOS,1
+departamento_origen,GUAVIARE,ADMITIDOS,1
+departamento_origen,GUAVIARE,GRADUADOS,3
+departamento_origen,HUILA,ADMITIDOS,50
+departamento_origen,HUILA,GRADUADOS,67
+departamento_origen,LA GUAJIRA,ADMITIDOS,684
+departamento_origen,LA GUAJIRA,GRADUADOS,648
+departamento_origen,MAGDALENA,ADMITIDOS,16017
+departamento_origen,MAGDALENA,GRADUADOS,14078
+departamento_origen,META,ADMITIDOS,35
+departamento_origen,META,GRADUADOS,28
+departamento_origen,NARIÑO,ADMITIDOS,93
+departamento_origen,NARIÑO,GRADUADOS,235
+departamento_origen,NORTE DE SANTANDER,ADMITIDOS,209
+departamento_origen,NORTE DE SANTANDER,GRADUADOS,162
+departamento_origen,PUTUMAYO,ADMITIDOS,43
+departamento_origen,PUTUMAYO,GRADUADOS,57
+departamento_origen,QUINDIO,ADMITIDOS,18
+departamento_origen,QUINDIO,GRADUADOS,20
+departamento_origen,RISARALDA,ADMITIDOS,17
+departamento_origen,RISARALDA,GRADUADOS,12
+departamento_origen,SAN ANDRES,ADMITIDOS,18
+departamento_origen,SANTANDER,ADMITIDOS,397
+departamento_origen,SANTANDER,GRADUADOS,338
+departamento_origen,SUCRE,ADMITIDOS,478
+departamento_origen,SUCRE,GRADUADOS,568
+departamento_origen,TOLIMA,ADMITIDOS,248
+departamento_origen,TOLIMA,GRADUADOS,165
+departamento_origen,VALLE,ADMITIDOS,225
+departamento_origen,VALLE DEL CAUCA,GRADUADOS,219
+departamento_origen,VAUPES,ADMITIDOS,1
+departamento_origen,VAUPES,GRADUADOS,3
+tipo_colegio,EXTRANJERO,ADMITIDOS,96
+tipo_colegio,EXTRANJERO,GRADUADOS,17
+tipo_colegio,NO REPORTA,ADMITIDOS,2826
+tipo_colegio,PRIVADO,ADMITIDOS,4853
+tipo_colegio,PRIVADO,GRADUADOS,5514
+tipo_colegio,PUBLICO,ADMITIDOS,17751
+tipo_colegio,PUBLICO,GRADUADOS,16704
